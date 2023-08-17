@@ -63,3 +63,5 @@ $\frac{y^{\prime}}{1-y^{\prime}}=\frac{y}{1-y}\times{\frac{m^+}{m^-}}$
     - 对反例欠采样,去除反例（undersampling）
     - 对正例过采样，增加正例（oversampling）
     - 直接基于原始训练集进行学习，但在用训练好的分类器进行预测时，将再缩放公式嵌入决策过程中，即阈值迁移。
+
+:v:
